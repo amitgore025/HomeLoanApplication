@@ -17,4 +17,5 @@ public class AppliacantDetails {
 	private String customerGender;
 	private String customerQualification;
 
+	private String customer;
 }
